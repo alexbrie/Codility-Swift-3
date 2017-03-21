@@ -60,3 +60,4 @@ public func minimumTapeDifference(_ A : [Int]) -> Int {
 minimumTapeDifference([900, 100, -1500, 200, 100])
 
 
+Int((4.0 - 3.14) * 100)
