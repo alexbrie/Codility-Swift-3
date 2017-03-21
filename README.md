@@ -41,7 +41,7 @@ Clone repository or download and unzip archive. Open the playground in XCode 8.2
 Coding practice in Swift playgrounds is pretty great, you don't have to compile or something, just type away and get instant feedback on your code's correctness.
 Swift is a decent language for practicing algorithms and practicing algorithms with it will make you a better iOS programmer overall. 
 
-But for the love of God, don't make the same mistake I did thinking it can be used for a LIVE / REAL coding challenge. It can't. You'll get stuck or discover weird bugs around Doubles - such as Int((4.0 - 3.14) * 100) gives 85 and not 86, waste precious time with type converstions and, most important, discover there's no way you can enter a multi-line string as input to your playground problem.
+But for the love of God, don't make the same mistake I did thinking it can be used for a LIVE / REAL coding challenge. It can't. You'll get stuck or discover weird bugs around Doubles - such as Int((4.0 - 3.14) * 100) gives 85 and not 86, waste precious time with casting types and, most important, discover there's no way you can enter a multi-line string as input to your playground problem.
 
 This cost me a job interview, by the way.
 So, be warned - do practice Swift, do use it for your job, but whenever possible, avoid it for coding challenges.
