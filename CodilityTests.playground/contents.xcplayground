@@ -7,7 +7,16 @@
         <page name='OddOccurencesInArray'/>
         <page name='PermMissingElem'/>
         <page name='TapeEquilibrium'/>
-        <page name='Various'/>
+        <page name='FrogRiverOne'/>
+        <page name='MissingPositiveInt'/>
+        <page name='MaxCounters'/>
+        <page name='CountDiv'/>
+        <page name='PassingCars'/>
+        <page name='Distinct'/>
+        <page name='MaxProductOfThree'/>
+        <page name='Triangle'/>
         <page name='ChocolatesNumbers'/>
+        <page name='TreeHeight'/>
+        <page name='BinTreeAmplitude'/>
     </pages>
 </playground>
