@@ -1,5 +1,5 @@
 # CodilitySwift
-Solutions to [Codility](https://codility.com) Lessons - training algorithms and coding exercises. 
+A few solutions to several [Codility](https://codility.com) Lessons - training algorithms and coding exercises. 
 
 Included solutions for:
 
