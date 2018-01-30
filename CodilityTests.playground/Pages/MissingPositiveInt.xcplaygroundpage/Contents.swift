@@ -22,20 +22,20 @@ public func minPosMissing(_ A :  [Int]) -> Int {
         }
     }
     
-    if mp > 1 {
+    if mp > 1 || Mp <= 0 {
         return 1
     }
     
-    var x = mp
+    var x = 0
     while x <= Mp {
         x = x + 1
         let key = hash[x]
         if key == nil {
-            return x // found the minimum int not in the hash
+            return x // found the minimum positive Int not in the hash
         }
     }
     
-    return Int.max
+    return Mp + 1
 }
 
 minPosMissing([1, 3, 6, 4, 1, 2])
